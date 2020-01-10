@@ -1,0 +1,10 @@
+C:\Martin\The Wolf - calculator\The Wolf - calculator\bin\Debug\The Wolf - calculator.exe.config
+C:\Martin\The Wolf - calculator\The Wolf - calculator\bin\Debug\The Wolf - calculator.exe
+C:\Martin\The Wolf - calculator\The Wolf - calculator\bin\Debug\The Wolf - calculator.pdb
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The Wolf - calculator.csprojAssemblyReference.cache
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The_Wolf___calculator.frmMain.resources
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The_Wolf___calculator.Properties.Resources.resources
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The Wolf - calculator.csproj.GenerateResource.cache
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The Wolf - calculator.csproj.CoreCompileInputs.cache
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The Wolf - calculator.exe
+C:\Martin\The Wolf - calculator\The Wolf - calculator\obj\Debug\The Wolf - calculator.pdb
