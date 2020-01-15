@@ -1,0 +1,7 @@
+C:\Martin\The Wolf\The Wolf\bin\Debug\The Wolf.exe.config
+C:\Martin\The Wolf\The Wolf\bin\Debug\The Wolf.exe
+C:\Martin\The Wolf\The Wolf\bin\Debug\The Wolf.pdb
+C:\Martin\The Wolf\The Wolf\obj\Debug\The Wolf.csprojAssemblyReference.cache
+C:\Martin\The Wolf\The Wolf\obj\Debug\The Wolf.csproj.CoreCompileInputs.cache
+C:\Martin\The Wolf\The Wolf\obj\Debug\The Wolf.exe
+C:\Martin\The Wolf\The Wolf\obj\Debug\The Wolf.pdb
