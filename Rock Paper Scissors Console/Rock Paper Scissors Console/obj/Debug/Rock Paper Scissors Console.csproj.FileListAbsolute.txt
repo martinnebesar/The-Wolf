@@ -1,0 +1,7 @@
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\obj\Debug\Rock Paper Scissors Console.csprojAssemblyReference.cache
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\obj\Debug\Rock Paper Scissors Console.csproj.CoreCompileInputs.cache
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\bin\Debug\Rock Paper Scissors Console.exe.config
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\bin\Debug\Rock Paper Scissors Console.exe
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\bin\Debug\Rock Paper Scissors Console.pdb
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\obj\Debug\Rock Paper Scissors Console.exe
+C:\Users\Programming5\source\repos\Rock Paper Scissors Console\Rock Paper Scissors Console\obj\Debug\Rock Paper Scissors Console.pdb
