@@ -1,0 +1,10 @@
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.csprojAssemblyReference.cache
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.Form1.resources
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.Properties.Resources.resources
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.csproj.GenerateResource.cache
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.csproj.CoreCompileInputs.cache
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\bin\Debug\Chapter09ProgramClassDesign.exe.config
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\bin\Debug\Chapter09ProgramClassDesign.exe
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\bin\Debug\Chapter09ProgramClassDesign.pdb
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.exe
+C:\Users\Programming5\source\repos\Chapter09ProgramClassDesign\Chapter09ProgramClassDesign\obj\Debug\Chapter09ProgramClassDesign.pdb
