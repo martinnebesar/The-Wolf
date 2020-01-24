@@ -196,7 +196,7 @@
             this.radioButton5.Size = new System.Drawing.Size(112, 17);
             this.radioButton5.TabIndex = 14;
             this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "Miles to Kilometres";
+            this.radioButton5.Text = "Miles to &Kilometres";
             this.radioButton5.UseVisualStyleBackColor = true;
             // 
             // radioButton6
@@ -207,7 +207,7 @@
             this.radioButton6.Size = new System.Drawing.Size(112, 17);
             this.radioButton6.TabIndex = 15;
             this.radioButton6.TabStop = true;
-            this.radioButton6.Text = "Kilometres to Miles";
+            this.radioButton6.Text = "Kilometres to &Miles";
             this.radioButton6.UseVisualStyleBackColor = true;
             // 
             // radioButton7
@@ -218,7 +218,7 @@
             this.radioButton7.Size = new System.Drawing.Size(113, 17);
             this.radioButton7.TabIndex = 16;
             this.radioButton7.TabStop = true;
-            this.radioButton7.Text = "Libras to Kilograms";
+            this.radioButton7.Text = "Libras to Kilo&grams";
             this.radioButton7.UseVisualStyleBackColor = true;
             // 
             // radioButton8
@@ -229,7 +229,7 @@
             this.radioButton8.Size = new System.Drawing.Size(113, 17);
             this.radioButton8.TabIndex = 17;
             this.radioButton8.TabStop = true;
-            this.radioButton8.Text = "Kilograms to Libras";
+            this.radioButton8.Text = "Kilograms to &Libras";
             this.radioButton8.UseVisualStyleBackColor = true;
             // 
             // button2
