@@ -7,3 +7,13 @@ C:\Users\johny\source\repos\Calculator and convetor\Calculator and convetor\bin\
 C:\Users\johny\source\repos\Calculator and convetor\Calculator and convetor\bin\Debug\Calculator and convetor.pdb
 C:\Users\johny\source\repos\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.exe
 C:\Users\johny\source\repos\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.pdb
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.csprojAssemblyReference.cache
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator_and_convetor.Form1.resources
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator_and_convetor.Properties.Resources.resources
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.csproj.GenerateResource.cache
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.csproj.CoreCompileInputs.cache
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.exe
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\obj\Debug\Calculator and convetor.pdb
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\bin\Debug\Calculator and convetor.exe.config
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\bin\Debug\Calculator and convetor.exe
+C:\Users\Programming5\Documents\GitHub\The-Wolf\Calculator and convetor\Calculator and convetor\bin\Debug\Calculator and convetor.pdb

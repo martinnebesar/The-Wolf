@@ -49,7 +49,36 @@ namespace Calculator_and_convetor
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if
+            double num3 = double.Parse(textBox4.Text);
+            double result = 0;
+            if (radioButton5.Checked == true)
+            {
+                result = num3 * 1.609;
+            }
+            else if (radioButton6.Checked == true)
+            {
+                result = num3 / 1.609;
+            }
+            else if (radioButton7.Checked == true)
+            {
+                result = num3 / 2.205;
+            }
+            else if (radioButton8.Checked == true)
+            {
+                result = num3 * 2.205;
+            }
+            textBox5.Text = result.ToString();
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            textBox4.Clear();
         }
     }
 }
