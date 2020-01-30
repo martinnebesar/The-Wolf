@@ -1,0 +1,7 @@
+C:\Martin\Exam practice 1\Exam practice 1\bin\Debug\Exam practice 1.exe.config
+C:\Martin\Exam practice 1\Exam practice 1\bin\Debug\Exam practice 1.exe
+C:\Martin\Exam practice 1\Exam practice 1\bin\Debug\Exam practice 1.pdb
+C:\Martin\Exam practice 1\Exam practice 1\obj\Debug\Exam practice 1.csprojAssemblyReference.cache
+C:\Martin\Exam practice 1\Exam practice 1\obj\Debug\Exam practice 1.csproj.CoreCompileInputs.cache
+C:\Martin\Exam practice 1\Exam practice 1\obj\Debug\Exam practice 1.exe
+C:\Martin\Exam practice 1\Exam practice 1\obj\Debug\Exam practice 1.pdb
